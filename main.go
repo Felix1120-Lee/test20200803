@@ -7,4 +7,5 @@ func main() {
 	greeting.Hi()
 	greeting.Hi()
 	greeting.Hi()
+	greeting.Hi()
 }
